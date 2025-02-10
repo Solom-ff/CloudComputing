@@ -1,1 +1,4 @@
-from lab2.py import file1
+from lab1 import file1
+print('Importing Successfull')
+
+file1()
